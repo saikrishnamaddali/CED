@@ -4,7 +4,7 @@
 <Name>base_mb</Name>
 <Version>1.0</Version> 
 <Design>init.tcl</Design>
-<DisplayName>Base MicroBlaze</DisplayName>
+<DisplayName>Base MicroBlaze - From XHub Repo</DisplayName>
 <Description>MicroBlaze system with peripherals including GPIO and UART.</Description>
 <Image>base_mb.png</Image>
 </ExampleDesign>
