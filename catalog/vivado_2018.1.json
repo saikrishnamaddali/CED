@@ -3,14 +3,21 @@
 		"items": [{
 				"name": "base_mb",
 				"display": "Base MicroBlaze",
-				"latest_revision": "1.0",
-				"revisions": [{
-					"revision": "1.0",
-					"commit_id": "650d58204f92f7da830d1916c426e52084d44f5f",
-					"date": "DEC2017",
-					"history": "Base MicroBlaze added."
-					
-				}],
+				"latest_revision": "1.1",
+				"revisions": [
+					{
+						"revision": "1.1",
+						"commit_id": "450d58204f92f7da830d1916c426e52084d44f5f",
+						"date": "DEC2017",
+						"history": "Base MicroBlaze added."					
+					 }
+					,{
+						"revision": "1.0",
+						"commit_id": "650d58204f92f7da830d1916c426e52084d44f5f",
+						"date": "DEC2017",
+						"history": "Base MicroBlaze added."					
+					}
+				],
 				"config": {
 					"root": "IPI/base_microblaze",
 					"metadata_file": "xitem.json"
