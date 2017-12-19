@@ -8,7 +8,7 @@
            {
              "version": "2018.1",
              "xitem_catalogue_file": "catalog/vivado_2018.1.json",
-             "remote_repo_branch_to_sync": "2018.1-dev",
+             "remote_repo_branch_to_sync": "master",
              "commit_id" : "767gjhhjkjzaxsdwd2829e823ejddskdj"
            }
          ]
