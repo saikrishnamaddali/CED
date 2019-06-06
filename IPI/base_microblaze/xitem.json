@@ -11,6 +11,8 @@
           "company_display": "Xilinx.com",
           "author": "Xilinx",
           "category" : "IPI",
+          "website": "www.xilinx.com", 
+          "is_active": true, 
           "search-keywords": [
               "base",
               "microblaze",
