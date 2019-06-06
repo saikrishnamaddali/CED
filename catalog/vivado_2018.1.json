@@ -5,6 +5,7 @@
 				"name": "base_mb",
 				"display": "Base MicroBlaze",
 				"latest_revision": "1.1",
+				"commit_id": "450d58204f92f7da830d1916c426e52084d44f5f",
 				"revisions": [
 					{
 						"revision": "1.1",
