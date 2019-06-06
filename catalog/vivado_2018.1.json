@@ -11,12 +11,6 @@
 						"date": "DEC2017",
 						"history": "Base MicroBlaze added."					
 					 }
-					,{
-						"revision": "1.0",
-						"commit_id": "000e730df7940d285e337958e543bb09c07e433a",
-						"date": "DEC2017",
-						"history": "Base MicroBlaze added."					
-					}
 				],
 				"config": {
 					"root": "IPI/base_microblaze",
