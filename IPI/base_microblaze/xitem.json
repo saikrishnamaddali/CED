@@ -5,7 +5,7 @@
         "infra": {
           "name": "base_mb",
           "display": "Base MicroBlaze",
-          "revision": 1.1,
+          "revision": "1.1",
           "description": "MicroBlaze system with peripherals including GPIO and UART. - test for catalogbuilder",
           "company": "xilinx.com",
           "company_display": "Xilinx.com",
