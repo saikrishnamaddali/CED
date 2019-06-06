@@ -1,6 +1,7 @@
 {
 	"catalog": {
-		"items": [{
+		"items": [
+			{
 				"name": "base_mb",
 				"display": "Base MicroBlaze",
 				"latest_revision": "1.1",
@@ -16,29 +17,7 @@
 					"root": "IPI/base_microblaze",
 					"metadata_file": "xitem.json"
 				},
-				"description": "MicroBlaze system with peripherals including GPIO and UART.",
-				"company": "xilinx.com",
-				"company_display": "Xilinx, Inc",
-				"author": "Xilinx",
-				"contributors": {
-					"contributor": [
-						{
-							"group": "Xilinx",
-							"url": "http://www.xilinx.com"
-						}
-					]
-				},
-				"category": "IPI",
-				"logo": "base_mb.png",
-				"website": "http://www.xilinx.com",
-				"search-keywords": {
-					"keyword": [
-						"base",
-						"microblaze",
-						"gpio",
-						"uart"
-					]
-				}
+				"company": "xilinx.com"
 			}
 		],
 		"categories": [{
@@ -50,6 +29,6 @@
 		]
 	},
 	
-		"_major": 1,
-		"_minor": 0
+	"_major": 1,
+	"_minor": 0
 }
